@@ -1,0 +1,90 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pfp{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.main-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px; 
+}
+.main2{
+    border: solid;
+    padding: 15px;
+}
+.pfp-info{
+    display: inline-block;
+    margin-left: 6px;
+}
+.pfp-img{
+    width: 50px;
+    border-radius: 50px;
+}   
+#one1{
+    margin-bottom: 4px;
+    margin-top: 0px;
+    font-weight: bold;
+} 
+#one2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: small;
+    color: rgb(158, 153, 153);
+    font-weight: bold;
+}
+#one3{
+    margin-top: 4px;
+    margin-bottom: 0px;
+}
+.input-box{
+    width: 967px;
+    padding-bottom: 200px;
+    
+}
+.input-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    
+}
+.but-main{
+    display: flex;
+    justify-content: center;  
+}
+.but1{
+    background-color: rgb(19, 224, 224);
+    padding: 10px 15px;
+    border: none;
+    border-radius: 25px;
+    margin-right: 10px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 100px;
+}
+.but1:hover{
+    background-color: rgb(50, 173, 173);
+}
+.but1:active{
+    background-color: rgb(51, 107, 51);
+}
+.but{
+    background-color: red;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.but:hover{
+    background-color: rgb(146, 40, 40);
+}
+.but:active{
+    background-color: rgb(51, 107, 51);
+}

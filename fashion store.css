@@ -1,0 +1,70 @@
+.heading-top{
+    text-align: center;
+    background-color: rgb(157, 105, 206);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+nav{
+    font-weight: bold
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    padding-left: 0px;
+}
+img{
+    width: 50px;
+    
+}
+
+li {
+    display: flex;
+    margin: 85px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    cursor: pointer;   
+}
+li:hover{
+    color: rgb(136, 84, 184);
+}
+
+.shoppin-cont{
+   background-color: rgb(156, 156, 156);
+   margin-bottom: 0px;
+}
+.shoppin{
+    width: 80vw;
+    cursor: pointer;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.upcoming{
+    text-align: center;
+    
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+.table{
+    padding: 2%;
+}
+#p{
+    font-size: 30px;
+    color: rgb(179, 172, 172);
+}
